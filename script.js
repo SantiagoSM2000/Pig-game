@@ -99,10 +99,4 @@ holdBtn.addEventListener('click', function () {
   }
 });
 
-newBtn.addEventListener('click', init{
-  /*
-  document
-    .querySelector(`.player--${activePlayer}`)
-    .classList.remove('player--winner');
-  document.querySelector(`.player--0`).classList.add('player--active');*/
-});
+newBtn.addEventListener('click', init);
